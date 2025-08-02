@@ -116,4 +116,5 @@ fabric.properties
 
 .rnd
 
+phpmyadmin
 # End of https://www.toptal.com/developers/gitignore/api/phpstorm+all,laravel
